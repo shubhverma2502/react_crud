@@ -1,0 +1,37 @@
+{
+  "associate": [
+    {
+      "id": "1000",
+      "name": "shubh",
+      "email": "shubh@gmail.com",
+      "mobile": "9511841145"
+    },
+    {
+      "id": "1001",
+      "name": "krunal",
+      "email": "krunal@gmail.com",
+      "mobile": "9511847145"
+    },
+    {
+      "id": "9734",
+      "name": "Divya",
+      "email": "divya@gmail.com",
+      "mobile": "8596251437",
+      "active": true
+    },
+    {
+      "id": "f1d2",
+      "name": "Dinesh",
+      "email": "dinesh@yahoo.com",
+      "mobile": "9584713568",
+      "active": true
+    },
+    {
+      "name": "Naresh Varre",
+      "email": "naresh@gmail.com",
+      "mobile": "7845129632",
+      "active": true,
+      "id": "c771"
+    }
+  ]
+}
